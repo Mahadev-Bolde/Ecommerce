@@ -23,12 +23,14 @@
     color: #626262;
     font-size: 16px;
     font-weight:400;
+    padding-top: 20px;
 }
 
 .nav-menu ul li {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     /* gap: 20px; */
     cursor: pointer;
 }
@@ -38,6 +40,7 @@
     height: 3px;
     width: 70%;
     background-color: black;
+    margin: 0 auto;
 }
 
 

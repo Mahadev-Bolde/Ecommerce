@@ -1,1 +1,10 @@
 frontend/node_modules
+frontend/build
+frontend/dist
+frontend/.env
+frontend/.env.local
+frontend/.env.development
+frontend/.env.production
+frontend/.env.test
+frontend/package.json
+frontend/package-lock.json
